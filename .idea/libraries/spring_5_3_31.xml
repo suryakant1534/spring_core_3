@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="spring-5.3.31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../source/jar/spring-jcl-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/jar/spring-expression-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/jar/spring-core-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/jar/spring-beans-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../source/jar/spring-context-5.3.31.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../source" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../source/apache-tomcat-9.0.89/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../../source/apache-tomcat-9.0.89/webapps/examples/WEB-INF/classes" />
+    </SOURCES>
+  </library>
+</component>
